@@ -1,12 +1,12 @@
 # CS-255-System-Analysis-and-Design
 <p><b>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</b></p>
-The client, DriverPass noticed that many people fail their driving tests at the DMV and there is a need for better driver training. DriverPass started their company to provide this type of training for their customers. DriverPass will provide online classes and practice tests and optional on-the-road training.<br>
+The client, DriverPass noticed that many people fail their driving tests at the DMV and there is a need for better driver training. DriverPass started their company to provide this type of training for their customers. DriverPass' new system will provide online classes and practice tests and optional on-the-road training.<br>
 <br>
 <p><b>What did you do particularly well?</b></p>
-I worked to identify the system needs, users and requirements of the system needed resourced from an interview transcipt between the client and our team. The communication was used to identify the clients needs and how we planned to meet those needs in designing and developing the system to include system components and design, nonfunctional and functional requirements, assumptions and limitations.<br>
+We worked to identify the system needs, users and requirements of the system needed resourced from an interview transcipt between the client and our team. The communication was used to identify the clients needs and how we planned to meet those needs in designing and developing the system to include system components and design, nonfunctional and functional requirements, assumptions and limitations.<br>
 <br>
 <p><b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b></p>
-I would spend more time developing more invested design diagrams to correctly portray the targeted goals for the project design.<br>
+I would spend more time developing more invested design diagrams to correctly portray the targeted goals for the project and system design.<br>
 <br>
 <p><b>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?</b></p>
 Users and their needs would include:<br>
